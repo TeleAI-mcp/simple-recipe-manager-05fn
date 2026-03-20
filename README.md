@@ -1,2 +1,3 @@
-# simple-recipe-manager-05fn
-Automated issue comment bot repository
+# Simple Recipe Manager 05Fn
+
+Automated issue comment bot repository.
